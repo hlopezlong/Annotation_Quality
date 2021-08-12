@@ -1,0 +1,65 @@
+(Revised 08/12/2021)
+
+
+Directions
+For each post please indicate whether it contains any of the following categories. These categories are not mutually exclusive, meaning more than one category could apply to a single post. “1” indicates “yes. this category applies”, while “0” indicates “no. this category does not apply". 
+
+
+Schema (Category Names, Definitions, and Examples)
+
+
+Argumentative
+
+Instances where the text is argumentative, but not abusive. This would include engaging in disagreements by building a case about criticizing or disagreeing with behaviors, articles/source/content, policy, or administrative bodies, or government/law enforcement systems. It also includes criticisms of non-sentient objects, such as food or buildings.
+This does NOT include cases where commenters are attributing characteristics to an individual or group of individuals, especially based on race/ethnicity, country of origin, gender, religion, or body shape.
+
+Example(s):
+“On its face, Glueck's claim that AG Rosenblum needed a stronger settlement for her re-election is pretty silly. She currently has no opponent, and the Republicans have not fielded a primary candidate for AG in two election cycles.”
+
+"Great story. Franke tried to expose corruption and ends up murdered. Problematicinterrogation tactics by OSP. Can’t wait for more info on this case and final proof ofthe real murderer, if this man is not responsible. Reinterview Franke’s brother. Heused to comment on WW now and then."
+
+Meta
+
+Any discussion of what constitutes abuse or instances where abusive language is quoted and responded to in a non-abusive manner, such as suggesting civility or offering a different perspective. This does NOT include instances of “feeding the trolls” or responding to uncivil comments with uncivil comments, and/or reposting abusive quotes for which an individual agrees with the abuse.
+
+Example(s):
+"Nincompoop, that's a nice one! I'm partial to silly goose.”
+
+"The slurs against Hillary should be stopped—- it’s time to confront them at every
+appearance. We all have seen that to ignore them as too ridiculous isn’t effective, i.e.Saddam had WMDs, Saddam caused 9/11, Obama is a Muslim, etc."
+
+
+Colloquial
+
+Casual use of profanity that is not directed at any individual, such as, using profanity as an intensifier.
+
+Example(s):
+DARPA, the subdivision of the Defense Department in charge of devising Really Scary Shit That’s Never Been Seen on Earth Before, aka the inventors of the internet.
+	
+Irony
+Instances where an individual comment/post is meant to be ironic, sarcastic, or in some way a joke without denigrating individuals or groups of people. 
+
+Example(s):
+Well shit, they drafted a guide. We should all be good now, whew aht a relief...
+
+Explicit
+
+Instances of explicit abuse, such as the use of insults, threats, ethnic/religious slurs, and/or ad hominem attacks. This includes accusing a protected class of individuals (e.g., ethnicities, gender, sexual orientation, religion, disabilities) of being terrorists or criminals. Or, referring to disadvantaged individuals (e.g., lower socioeconomic class) as dirty or trashy.
+
+Example(s):
+“This bitch is nuts. Who would read a book by a woman.” 
+"Liberals are just bone stupid. There can be no other rational explanation for theirbias and ignorance."
+
+
+Implicit
+Instances where a comment/post alludes to stereotypes or other negative attributes and associates them with a particular group of individuals (e.g., body shape, socioeconomic class, homelessness), especially protected classes (e.g., ethnicities, gender, sexual orientation, religion, disabilities).
+	
+Example(s):
+"Trump loves his uneducated voters. It sounds like you know a few yourself."
+
+Self
+
+Instances where abuse was aimed at the self and in some way denigrated the writer of the commenter, rather than denigrating other individuals or groups.
+
+Example(s):
+"I not only missed the point, I missed the headline. I screwed up. I attempted to delete my idiotic comment several times but it keeps reappearing. Stupid is as stupid does and I sure did stupid (to slightly misquote our president)"
