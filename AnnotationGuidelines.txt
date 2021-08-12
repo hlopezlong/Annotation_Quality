@@ -44,7 +44,7 @@ Well shit, they drafted a guide. We should all be good now, whew aht a relief...
 
 Explicit
 
-Instances of explicit abuse, such as the use of insults, threats, ethnic/religious slurs, and/or ad hominem attacks. This includes accusing a protected class of individuals (e.g., ethnicities, gender, sexual orientation, religion, disabilities) of being terrorists or criminals. Or, referring to disadvantaged individuals (e.g., lower socioeconomic class) as dirty or trashy.
+Instances that express explicit hateful, aggressive, and/or harmful content that targets individuals or groups of individuals. This includes the use of identity attacks, insults, threats, ethnic/religious slurs, and/or ad hominem attacks.
 
 Example(s):
 “This bitch is nuts. Who would read a book by a woman.” 
@@ -52,14 +52,14 @@ Example(s):
 
 
 Implicit
-Instances where a comment/post alludes to stereotypes or other negative attributes and associates them with a particular group of individuals (e.g., body shape, socioeconomic class, homelessness), especially protected classes (e.g., ethnicities, gender, sexual orientation, religion, disabilities).
+Instances where a comment/post alludes to stereotypes or other negative attributes and associates them with a particular group of individuals, especially as it relates to attributes related to a group or individual's identity (e.g., ethnic heritage, nationality, gender, sexual orientation, religion, disabilities, body shape).
 	
 Example(s):
 "Trump loves his uneducated voters. It sounds like you know a few yourself."
 
 Self
 
-Instances where abuse was aimed at the self and in some way denigrated the writer of the commenter, rather than denigrating other individuals or groups.
+Instances where the author aims hateful, aggressive, or harmful content at the self rather than at groups of individuals. This includes negative self-talk, suicidal ideations, and ruminations of self-harm.
 
 Example(s):
 "I not only missed the point, I missed the headline. I screwed up. I attempted to delete my idiotic comment several times but it keeps reappearing. Stupid is as stupid does and I sure did stupid (to slightly misquote our president)"
